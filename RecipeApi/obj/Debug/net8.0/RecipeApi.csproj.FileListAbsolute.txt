@@ -110,3 +110,4 @@ D:\reciepe-backend\RecipeApi\obj\Debug\net8.0\refint\RecipeApi.dll
 D:\reciepe-backend\RecipeApi\obj\Debug\net8.0\RecipeApi.pdb
 D:\reciepe-backend\RecipeApi\obj\Debug\net8.0\RecipeApi.genruntimeconfig.cache
 D:\reciepe-backend\RecipeApi\obj\Debug\net8.0\ref\RecipeApi.dll
+D:\reciepe-backend\RecipeApi\obj\Debug\net8.0\RecipeApi.sourcelink.json
